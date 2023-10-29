@@ -3,7 +3,7 @@
 Me chamo Bruna Macedo 👽️
 
 Mãe de pets. garota gamer apaixonada por World Of Warcraft, cultivo moda, amo criar e principalmente desenhar.
-Atualmente estudo Python mas pretendo continuar estudando programação e seguir na área, estudando também Front e Back end.
+Atualmente estudo Python mas pretendo continuar estudando programação e seguir na área do Backend
 
 
 ## Tecnologias
